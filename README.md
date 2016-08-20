@@ -1,0 +1,1 @@
+A trivia game about the Python language developed with Pygame as the third program in my series of Friday Night Python hacks.
