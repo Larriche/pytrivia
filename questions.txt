@@ -1,0 +1,60 @@
+What is the command to show output in console?
+output
+cout
+print
+println
+3
+Who created Python?
+Bjarne Stroustrup
+Guido van Rossum
+Larry Wall
+Bill Gates
+2
+What is the latest version of Python?
+The 1.x series
+The 2.x series
+The 3.x series
+The 4.x series
+3
+The language Python is named after?
+The snake,python
+Monty Python
+Guido's favourite pet snake
+A town
+2
+What is the first line in "The Zen of Python"?
+Explicit is better than implicit
+Beautiful is better than ugly
+Readability counts
+Flat is better than nested
+2
+What is the Java implementation of Python called?
+PyJava
+Javathon
+Javyon
+Jython
+4
+What is the name of the GUI library that ships with Python?
+PyGTK
+Tkinter
+PyQt
+PySide
+2
+What is the command for showing the Zen of Python in the Python console?
+import zen
+import this
+import that
+import python
+2
+What is the file extension for a python program?
+.cpp
+.python
+.py
+.snake
+3
+What is the python library for generating random numbers?
+math
+rand
+random
+secure
+3
